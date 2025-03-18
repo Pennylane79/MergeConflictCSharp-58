@@ -1,0 +1,3 @@
+Conflict.txt
+Line one
+Line two
