@@ -1,3 +1,3 @@
 Conflict.txt
 Line one
-Line three from newBranch
+Hello World
